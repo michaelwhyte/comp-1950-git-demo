@@ -1,2 +1,2 @@
-# comp-1950-git-demo
+# COMP 1950 Git Demo
 A Demo on how to use Git
